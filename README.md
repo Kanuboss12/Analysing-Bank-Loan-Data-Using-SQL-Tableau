@@ -1,1 +1,1 @@
-# Analysing Bank Loan Data Using SQL & Tableau
+# Bank Loan Report Analysis Using SQL & Tableau
