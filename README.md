@@ -1,6 +1,6 @@
 # 💼Bank Loan Dashboard Report | SQL + Tableau 🏦
 ### 📈Objective
-Excited to showcase this Bank Loan Dashboard, a project where I applied SQL for data extraction and transformation, and Tableau for building a dynamic, interactive report. In order to monitor and assess bank's lending activities and performance. This report aims to provide insights into key loan-related metrics and their changes over time. The report will help Bank make data-driven decisions, track Bank loan portfolio's health, and identify trends that can inform lending strategies.
+In order to monitor and assess bank's lending activities and performance. This report aims to provide insights into key loan-related metrics and their changes over time. The report will help Bank make data-driven decisions, track Bank loan portfolio's health, and identify trends that can inform lending strategies.
 ### ✅Dataset
 Worked With Dataset of 38,576 rows. The data spans 2021-year performance of 12 months and included features like Total Payment, Loan Amount, interest rate, DTI, Loan Status, Terms, etc.
 ### ✅Procedure
