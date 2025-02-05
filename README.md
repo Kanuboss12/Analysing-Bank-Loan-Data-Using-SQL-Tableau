@@ -27,4 +27,5 @@ I Began by Taking Raw Data from Data Tutorials and cleaned it by Addressing Null
 * DTI: shows gradual growth with mid-year fluctuations, peaking in December, jumping from 13.32% to 13.66%.
 * Funding shows steady growth throughout the year, peaking in December. The increase in received payments suggests strong loan disbursement and repayment trends.
 
-This project exemplifies the power of data analytics in driving better decision-making and optimizing business outcomes in the financial domain.
+Visit my Dashboard 👉🏻
+https://public.tableau.com/app/profile/karuna.rathore/viz/BankLoanReport_17382499000140/Summary
